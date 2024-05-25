@@ -78,7 +78,7 @@ flowchart TB
 ```
 El diagrama de flujo muestra el funcionamiento del escaneo de dispositivos I2C. Comienza con la inicialización y luego entra en un bucle donde se prueba cada dirección posible. Si se detecta un dispositivo en una dirección específica, se muestra su dirección; de lo contrario, se muestra un mensaje de error.
 
-## Ejercicio Practico B: ESCÁNER I2C
+## Ejercicio Practico B: OLED SSD1306 y Sensor AHT10
 
 ### Código de la práctica B
 
